@@ -31,4 +31,4 @@ jobs:
           ARMAGAN_URL_LEGO: ${{ secrets.ARMAGAN_URL_LEGO }}
           ARMAGAN_URL_MAJORETTE: ${{ secrets.ARMAGAN_URL_MAJORETTE }}
         run: |
-          python armaganwatch.py
+          

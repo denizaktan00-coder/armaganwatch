@@ -1,0 +1,962 @@
+{
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-uclu-araba-seti-k5904-p-140301matk5904": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Üçlü Araba Seti K5904",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-uclu-araba-seti-k5904-p-140301matk5904",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 360.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-donen-tekerlek-macerasi-yaris-seti-gjm77-p-010101matgjm77": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Dönen Tekerlek Macerası Yarış Seti GJM77",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-donen-tekerlek-macerasi-yaris-seti-gjm77-p-010101matgjm77",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 2600.0,
+    "old_price": 2600.0
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-vahsi-firlaticilar-serisi-shark-launcher-gvf43-p-w010101matgvf41sl": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Vahşi Fırlatıcılar Serisi Shark Launcher GVF43",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-vahsi-firlaticilar-serisi-shark-launcher-gvf43-p-w010101matgvf41sl",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 380.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-onlu-araba-seti-p-140301mat54886": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Onlu Araba Seti",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-onlu-araba-seti-p-140301mat54886",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1200.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-p-140301mat05785": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Tekli Arabalar",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-p-140301mat05785",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-sampiyonluk-parkuru-yaris-seti-gbf83-p-w010101matgbf81b": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Şampiyonluk Parkuru Yarış Seti GBF83",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-sampiyonluk-parkuru-yaris-seti-gbf83-p-w010101matgbf81b",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1200.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-vahsi-firlaticilar-serisi-dino-launcher-gvf42-p-w010101matgvf41dl": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Vahşi Fırlatıcılar Serisi Dino Launcher GVF42",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-vahsi-firlaticilar-serisi-dino-launcher-gvf42-p-w010101matgvf41dl",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 380.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-firlatici-ve-tasiyici-ejderha-gtk42-p-010405matgtk42": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Fırlatıcı ve Taşıyıcı Ejderha GTK42",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-firlatici-ve-tasiyici-ejderha-gtk42-p-010405matgtk42",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1000.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-draggin-wagon-hkg26-p-w140301mat05785dw26": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Tekli Arabalar Draggin Wagon HKG26",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-draggin-wagon-hkg26-p-w140301mat05785dw26",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-track-builder-temel-pist-paketi-gvg13-p-010405matgvg13": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Track Builder Temel Pist Paketi GVG13",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-track-builder-temel-pist-paketi-gvg13-p-010405matgvg13",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 570.0,
+    "old_price": 570.0
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-build-n-slam-kutu-oyunu-hlx91-p-010101mathlx91": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Build N Slam Kutu Oyunu HLX91",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-build-n-slam-kutu-oyunu-hlx91-p-010101mathlx91",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 699.99,
+    "old_price": 699.99
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-corvette-grand-sport-roadster-hkk09-p-w140301mat05785hkk09": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Tekli Arabalar Corvette Grand Sport Roadster HKK09",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-corvette-grand-sport-roadster-hkk09-p-w140301mat05785hkk09",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-mach-it-go-hkh78-p-w140301mat05785hkh78": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Tekli Arabalar Mach It Go HKH78",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-mach-it-go-hkh78-p-w140301mat05785hkh78",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-racerverse-tekli-arabalar-darth-vader-hkc00-p-w010101mathkb86dv": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels RacerVerse Tekli Arabalar Darth Vader HKC00",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-racerverse-tekli-arabalar-darth-vader-hkc00-p-w010101mathkb86dv",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 350.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-mario-kart-karakter-araclar-baby-luigi-hdb28-p-w010101matgbg25bl": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Mario Kart Karakter Araçlar Baby Luigi HDB28",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-mario-kart-karakter-araclar-baby-luigi-hdb28-p-w010101matgbg25bl",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 350.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-lolux-htc90-p-w140301mat05785lol": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Tekli Arabalar Lolux HTC90",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-lolux-htc90-p-w140301mat05785lol",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-skate-retro-temali-ikili-parmak-kaykay-ve-ayakkabi-paketleri-hxl19-p-w010101mathxl17b": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Skate Retro Temalı İkili Parmak Kaykay ve Ayakkabı Paketleri HXL19",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-skate-retro-temali-ikili-parmak-kaykay-ve-ayakkabi-paketleri-hxl19-p-w010101mathxl17b",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 450.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-matara-500-ml-2877-p-010101obm52877": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Matara 500 ml 2877",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-matara-500-ml-2877-p-010101obm52877",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 290.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-kalem-cantasi-2597-p-010101obm52597": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Kalem Çantası 2597",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-kalem-cantasi-2597-p-010101obm52597",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 620.99,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-fast-furious-premium-arabalar-toyota-land-cruiser-fj43-hrt96-p-w010101mathnw46tla": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Fast & Furious Premium Arabalar Toyota Land Cruiser FJ43 HRT96",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-fast-furious-premium-arabalar-toyota-land-cruiser-fj43-hrt96-p-w010101mathnw46tla",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 350.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-pop-culture-premium-arabalar-plumber-van-hxf03-p-w010101mathxd63pv": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Pop Culture Premium Arabalar Plumber Van HXF03",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-pop-culture-premium-arabalar-plumber-van-hxf03-p-w010101mathxd63pv",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 350.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-pop-culture-premium-arabalar-hiway-hauler-hvj45-p-w010101mathxd63hha": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Pop Culture Premium Arabalar Hiway Hauler HVJ45",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-pop-culture-premium-arabalar-hiway-hauler-hvj45-p-w010101mathxd63hha",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 350.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-pop-culture-premium-arabalar-volkswagen-drag-bus-hvj46-p-w010101mathxd63vdb": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Pop Culture Premium Arabalar Volkswagen Drag Bus HVJ46",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-pop-culture-premium-arabalar-volkswagen-drag-bus-hvj46-p-w010101mathxd63vdb",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 350.0,
+    "old_price": null
+  },
+  "Hot Wheels:https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-land-rover-series-ii-htd41-p-w140301mat05785lrs": {
+    "brand": "Hot Wheels",
+    "name": "Hot Wheels Tekli Arabalar Land Rover Series II HTD41",
+    "link": "https://www.armaganoyuncak.com.tr/hot-wheels-tekli-arabalar-land-rover-series-ii-htd41-p-w140301mat05785lrs",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-aksiyon-suruculeri-oyun-seti-feribot-limani-hmh29-p-w040301matgvy82f": {
+    "brand": "Matchbox",
+    "name": "Matchbox Aksiyon Sürücüleri Oyun Seti Feribot Limanı HMH29",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-aksiyon-suruculeri-oyun-seti-feribot-limani-hmh29-p-w040301matgvy82f",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1100.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-2016-ford-interceptor-utility-jbt12-p-w071200matc0859fut": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar 2016 Ford Interceptor Utility JBT12",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-2016-ford-interceptor-utility-jbt12-p-w071200matc0859fut",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-ground-breaker-jbt16-p-w071200matc08591gb": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar Ground Breaker JBT16",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-ground-breaker-jbt16-p-w071200matc08591gb",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-1980-amc-eagle-jbr92-p-w071200matc08591aeh": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar 1980 Amc Eagle JBR92",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-1980-amc-eagle-jbr92-p-w071200matc08591aeh",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-polaris-ranger-ev-jbr93-p-w071200matc08591pre": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar Polaris Ranger Ev JBR93",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-polaris-ranger-ev-jbr93-p-w071200matc08591pre",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-temali-arabalar-95-nissan-hardbody-d21-jcg45-p-w010101matggf12nh": {
+    "brand": "Matchbox",
+    "name": "Matchbox Temalı Arabalar 95 Nissan Hardbody D21 JCG45",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-temali-arabalar-95-nissan-hardbody-d21-jcg45-p-w010101matggf12nh",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 149.99,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-1-64-olcekli-metal-8-li-araba-seti-jct87-p-w48pl48mathvr81d": {
+    "brand": "Matchbox",
+    "name": "Matchbox 1:64 Ölçekli Metal 8'li Araba Seti JCT87",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-1-64-olcekli-metal-8-li-araba-seti-jct87-p-w48pl48mathvr81d",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 960.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-gokyuzu-araclari-cessna-172-skyhawk-jcm80-p-w010101matjdj05cs": {
+    "brand": "Matchbox",
+    "name": "Matchbox Gökyüzü Araçları Cessna 172 Skyhawk JCM80",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-gokyuzu-araclari-cessna-172-skyhawk-jcm80-p-w010101matjdj05cs",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 250.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-gokyuzu-araclari-ch-47-chinook-jcn08-p-w010101matjdj05ch": {
+    "brand": "Matchbox",
+    "name": "Matchbox Gökyüzü Araçları CH-47 Chinook JCN08",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-gokyuzu-araclari-ch-47-chinook-jcn08-p-w010101matjdj05ch",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 250.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-gokyuzu-araclari-p-38-lightning-jcn02-p-w010101matjdj05lig": {
+    "brand": "Matchbox",
+    "name": "Matchbox Gökyüzü Araçları P-38 Lightning JCN02",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-gokyuzu-araclari-p-38-lightning-jcn02-p-w010101matjdj05lig",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 250.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-jurassi-c-world-di-no-transporter-arabalari-tyranno-hauler-jgm05-p-w010101matjgl74th": {
+    "brand": "Matchbox",
+    "name": "Matchbox Jurassi̇c World Di̇no Transporter Arabaları Tyranno-Hauler JGM05",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-jurassi-c-world-di-no-transporter-arabalari-tyranno-hauler-jgm05-p-w010101matjgl74th",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 500.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-jurassi-c-world-di-no-transporter-arabalari-quetzal-copter-jgm07-p-w010101matjgl74qc": {
+    "brand": "Matchbox",
+    "name": "Matchbox Jurassi̇c World Di̇no Transporter Arabaları Quetzal-Copter JGM07",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-jurassi-c-world-di-no-transporter-arabalari-quetzal-copter-jgm07-p-w010101matjgl74qc",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 500.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-jurassi-c-world-model-araclar-97-mercedes-benz-unimog-u1300-jgl08-p-w010101matjgl59mer": {
+    "brand": "Matchbox",
+    "name": "Matchbox Jurassi̇c World Model Araçlar 97 Mercedes-Benz Unimog U1300 JGL08",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-jurassi-c-world-model-araclar-97-mercedes-benz-unimog-u1300-jgl08-p-w010101matjgl59mer",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 200.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-mbx-garbage-scout-jbr54-p-w071200matc0859mgs": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar Mbx Garbage Scout JBR54",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-mbx-garbage-scout-jbr54-p-w071200matc0859mgs",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-2023-toyota-rav4-trd-jgv15-p-w071200matc0859toy": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar 2023 Toyota RAV4 TRD JGV15",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-2023-toyota-rav4-trd-jgv15-p-w071200matc0859toy",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-1-64-arabalar-bizzarini-5300-gt-corsa-revival-jbw98-p-w040301matfwd28cr": {
+    "brand": "Matchbox",
+    "name": "Matchbox 1:64 Arabalar Bizzarini 5300 Gt Corsa Revival JBW98",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-1-64-arabalar-bizzarini-5300-gt-corsa-revival-jbw98-p-w040301matfwd28cr",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 300.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-1-64-arabalar-2023-nissan-ariya-jbw80-p-w040301matfwd28na": {
+    "brand": "Matchbox",
+    "name": "Matchbox 1:64 Arabalar 2023 Nissan Ariya JBW80",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-1-64-arabalar-2023-nissan-ariya-jbw80-p-w040301matfwd28na",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 300.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-premium-arabalar-2020-ram-rebel-jlc40-p-w011600matgbj48ro": {
+    "brand": "Matchbox",
+    "name": "Matchbox Premium Arabalar 2020 Ram Rebel JLC40",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-premium-arabalar-2020-ram-rebel-jlc40-p-w011600matgbj48ro",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 350.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-1960-chevy-el-camino-jft05-p-w071200matc0859cec": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar 1960 Chevy El Camino JFT05",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-1960-chevy-el-camino-jft05-p-w071200matc0859cec",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-mbx-field-car-convertible-jbr03-p-w071200matc0859fcc": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar Mbx Field Car Convertible JBR03",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-mbx-field-car-convertible-jbr03-p-w071200matc0859fcc",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-temali-arabalar-1968-dodge-d200-jcg48-p-w010101matggf12do": {
+    "brand": "Matchbox",
+    "name": "Matchbox Temalı Arabalar 1968 Dodge D200 JCG48",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-temali-arabalar-1968-dodge-d200-jcg48-p-w010101matggf12do",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 149.99,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-temali-arabalar-chevrolet-silverado-jcg50-p-w010101matggf12cs": {
+    "brand": "Matchbox",
+    "name": "Matchbox Temalı Arabalar Chevrolet Silverado JCG50",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-temali-arabalar-chevrolet-silverado-jcg50-p-w010101matggf12cs",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 149.99,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-road-roller-jbt19-p-w071200matc0859rr": {
+    "brand": "Matchbox",
+    "name": "Matchbox Tekli̇ Arabalar Road Roller JBT19",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-tekli-arabalar-road-roller-jbt19-p-w071200matc0859rr",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 120.0,
+    "old_price": null
+  },
+  "Matchbox:https://www.armaganoyuncak.com.tr/matchbox-gokyuzu-araclari-mbx-eheli-jcm98-p-w010101matjdj05me": {
+    "brand": "Matchbox",
+    "name": "Matchbox Gökyüzü Araçları Mbx Eheli JCM98",
+    "link": "https://www.armaganoyuncak.com.tr/matchbox-gokyuzu-araclari-mbx-eheli-jcm98-p-w010101matjdj05me",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 250.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-duplo-ilk-sayi-treni-saymayi-ogren-10954-p-010101leg10954": {
+    "brand": "LEGO",
+    "name": "LEGO Duplo İlk Sayı Treni Saymayı Öğren 10954",
+    "link": "https://www.armaganoyuncak.com.tr/lego-duplo-ilk-sayi-treni-saymayi-ogren-10954-p-010101leg10954",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 949.0,
+    "old_price": 949.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/legor-creator-muhtesem-dinozorlar-p-010101ado31058": {
+    "brand": "LEGO",
+    "name": "LEGO® Creator Muhteşem Dinozorlar",
+    "link": "https://www.armaganoyuncak.com.tr/legor-creator-muhtesem-dinozorlar-p-010101ado31058",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 719.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-classic-yaratici-canta-10713-p-010101leg10713": {
+    "brand": "LEGO",
+    "name": "LEGO Classic Yaratıcı Çanta 10713",
+    "link": "https://www.armaganoyuncak.com.tr/lego-classic-yaratici-canta-10713-p-010101leg10713",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 949.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-iconic-nergis-40747-p-010101leg40747": {
+    "brand": "LEGO",
+    "name": "LEGO Iconic Nergis 40747",
+    "link": "https://www.armaganoyuncak.com.tr/lego-iconic-nergis-40747-p-010101leg40747",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 729.0,
+    "old_price": 729.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-kiraz-cicekleri-40725-p-010101leg40725": {
+    "brand": "LEGO",
+    "name": "LEGO Kiraz Çiçekleri 40725",
+    "link": "https://www.armaganoyuncak.com.tr/lego-kiraz-cicekleri-40725-p-010101leg40725",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 729.0,
+    "old_price": 729.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-ninjago-sora-nin-teknoloji-elementi-robotu-71807-p-010101leg71807": {
+    "brand": "LEGO",
+    "name": "LEGO Ninjago Sora’nın Teknoloji Elementi Robotu 71807",
+    "link": "https://www.armaganoyuncak.com.tr/lego-ninjago-sora-nin-teknoloji-elementi-robotu-71807-p-010101leg71807",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 949.0,
+    "old_price": 949.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-marvel-iron-orumcek-adam-yapim-figuru-76298-p-010101leg76298": {
+    "brand": "LEGO",
+    "name": "LEGO Marvel Iron Örümcek Adam Yapım Figürü 76298",
+    "link": "https://www.armaganoyuncak.com.tr/lego-marvel-iron-orumcek-adam-yapim-figuru-76298-p-010101leg76298",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1749.0,
+    "old_price": 1749.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-speed-champions-ferrari-f40-76934-p-010101leg76934": {
+    "brand": "LEGO",
+    "name": "LEGO Speed Champions Ferrari F40 76934",
+    "link": "https://www.armaganoyuncak.com.tr/lego-speed-champions-ferrari-f40-76934-p-010101leg76934",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1369.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-star-wars-c-3po-75398-p-010101leg75398": {
+    "brand": "LEGO",
+    "name": "LEGO Star Wars C-3PO 75398",
+    "link": "https://www.armaganoyuncak.com.tr/lego-star-wars-c-3po-75398-p-010101leg75398",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 7099.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-star-wars-col-skiff-i-ve-sarlacc-cukuru-75396-p-010101leg75396": {
+    "brand": "LEGO",
+    "name": "LEGO Star Wars Çöl Skiff’i ve Sarlacc Çukuru 75396",
+    "link": "https://www.armaganoyuncak.com.tr/lego-star-wars-col-skiff-i-ve-sarlacc-cukuru-75396-p-010101leg75396",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 3999.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-super-mario-interaktif-lego-peach-ile-maceralar-71441-p-010101leg71441": {
+    "brand": "LEGO",
+    "name": "LEGO Super Mario İnteraktif LEGO Peach ile Maceralar 71441",
+    "link": "https://www.armaganoyuncak.com.tr/lego-super-mario-interaktif-lego-peach-ile-maceralar-71441-p-010101leg71441",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 2499.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-animal-crossing-k-k-meydan-konseri-77052-p-010101leg77052": {
+    "brand": "LEGO",
+    "name": "LEGO Animal Crossing K.K. Meydan Konseri 77052",
+    "link": "https://www.armaganoyuncak.com.tr/lego-animal-crossing-k-k-meydan-konseri-77052-p-010101leg77052",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 3999.0,
+    "old_price": 3999.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-technic-nasa-apollo-ay-tasiti-lrv-42182-p-010101leg42182": {
+    "brand": "LEGO",
+    "name": "LEGO Technic NASA Apollo Ay Taşıtı – LRV 42182",
+    "link": "https://www.armaganoyuncak.com.tr/lego-technic-nasa-apollo-ay-tasiti-lrv-42182-p-010101leg42182",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 8999.99,
+    "old_price": 8999.99
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-technic-volvo-fmx-kamyon-ve-ec230-elektrikli-ekskavator-42175-p-010101leg42175": {
+    "brand": "LEGO",
+    "name": "LEGO Technic Volvo FMX Kamyon ve EC230 Elektrikli Ekskavatör 42175",
+    "link": "https://www.armaganoyuncak.com.tr/lego-technic-volvo-fmx-kamyon-ve-ec230-elektrikli-ekskavator-42175-p-010101leg42175",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 10199.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-marvel-avengers-leviathan-a-karsi-76290-p-010101leg76290": {
+    "brand": "LEGO",
+    "name": "LEGO Marvel Avengers Leviathan'a Karşı 76290",
+    "link": "https://www.armaganoyuncak.com.tr/lego-marvel-avengers-leviathan-a-karsi-76290-p-010101leg76290",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 2499.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-super-mario-interaktif-lego-luigi-ile-maceralar-71440-p-010101leg71440": {
+    "brand": "LEGO",
+    "name": "LEGO Super Mario İnteraktif LEGO Luigi ile Maceralar 71440",
+    "link": "https://www.armaganoyuncak.com.tr/lego-super-mario-interaktif-lego-luigi-ile-maceralar-71440-p-010101leg71440",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 2499.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-sonic-tails-in-macera-teknesi-76997-p-010101leg76997": {
+    "brand": "LEGO",
+    "name": "LEGO Sonic Tails’in Macera Teknesi 76997",
+    "link": "https://www.armaganoyuncak.com.tr/lego-sonic-tails-in-macera-teknesi-76997-p-010101leg76997",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 2749.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-super-mario-peach-in-kalesi-nde-roy-ile-savas-71435-p-010101leg71435": {
+    "brand": "LEGO",
+    "name": "LEGO Super Mario Peach’in Kalesi’nde Roy ile Savaş 71435",
+    "link": "https://www.armaganoyuncak.com.tr/lego-super-mario-peach-in-kalesi-nde-roy-ile-savas-71435-p-010101leg71435",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 3249.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-marvel-iron-man-ve-iron-ordusu-hydra-soldier-a-karsi-76288-p-010101leg76288": {
+    "brand": "LEGO",
+    "name": "LEGO Marvel Iron Man ve Iron Ordusu, Hydra Soldier’a Karşı 76288",
+    "link": "https://www.armaganoyuncak.com.tr/lego-marvel-iron-man-ve-iron-ordusu-hydra-soldier-a-karsi-76288-p-010101leg76288",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1059.0,
+    "old_price": 1059.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-iconic-noel-baba-nin-kizagi-oyuncagi-40499-p-010101leg40499": {
+    "brand": "LEGO",
+    "name": "LEGO Iconic Noel Baba'nın Kızağı Oyuncağı 40499",
+    "link": "https://www.armaganoyuncak.com.tr/lego-iconic-noel-baba-nin-kizagi-oyuncagi-40499-p-010101leg40499",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1999.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-wicked-elphaba-ve-glinda-figurleri-75682-p-010101leg75682": {
+    "brand": "LEGO",
+    "name": "LEGO Wicked Elphaba ve Glinda Figürleri 75682",
+    "link": "https://www.armaganoyuncak.com.tr/lego-wicked-elphaba-ve-glinda-figurleri-75682-p-010101leg75682",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 2749.0,
+    "old_price": null
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-wicked-emerald-city-ye-hos-geldiniz-75684-p-010101leg75684": {
+    "brand": "LEGO",
+    "name": "LEGO Wicked Emerald City’ye Hoş Geldiniz 75684",
+    "link": "https://www.armaganoyuncak.com.tr/lego-wicked-emerald-city-ye-hos-geldiniz-75684-p-010101leg75684",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 4999.0,
+    "old_price": 4999.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-seyahat-anilari-41838-p-010101leg41838": {
+    "brand": "LEGO",
+    "name": "LEGO Seyahat Anıları 41838",
+    "link": "https://www.armaganoyuncak.com.tr/lego-seyahat-anilari-41838-p-010101leg41838",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 7599.0,
+    "old_price": 7599.0
+  },
+  "LEGO:https://www.armaganoyuncak.com.tr/lego-wednesday-addams-figuru-76780-p-010101leg76780": {
+    "brand": "LEGO",
+    "name": "LEGO Wednesday Addams Figürü 76780",
+    "link": "https://www.armaganoyuncak.com.tr/lego-wednesday-addams-figuru-76780-p-010101leg76780",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 2499.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-french-touch-5-li-koleksiyon-paketi-p-010101sim07536": {
+    "brand": "Majorette",
+    "name": "Majorette French Touch 5'li Koleksiyon Paketi",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-french-touch-5-li-koleksiyon-paketi-p-010101sim07536",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 1150.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-limited-edition-series-ford-f-150-raptor-p-w010101sim54034f": {
+    "brand": "Majorette",
+    "name": "Majorette Limited Edition Series Ford F-150 Raptor",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-limited-edition-series-ford-f-150-raptor-p-w010101sim54034f",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 250.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-castheads-serisi-araclar-porsche-911-carrera-rs-2-7-p-w010101sim07533pc": {
+    "brand": "Majorette",
+    "name": "Majorette Castheads Serisi Araçlar Porsche 911 Carrera RS 2.7",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-castheads-serisi-araclar-porsche-911-carrera-rs-2-7-p-w010101sim07533pc",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 300.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-castheads-serisi-araclar-ni-ssan-z-p-w010101sim07533nz": {
+    "brand": "Majorette",
+    "name": "Majorette Castheads Serisi Araçlar Ni̇ssan Z",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-castheads-serisi-araclar-ni-ssan-z-p-w010101sim07533nz",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 300.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-castheads-serisi-araclar-chevrolet-corvette-zr-1-p-w010101sim07533c": {
+    "brand": "Majorette",
+    "name": "Majorette Castheads Serisi Araçlar Chevrolet Corvette ZR-1",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-castheads-serisi-araclar-chevrolet-corvette-zr-1-p-w010101sim07533c",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 300.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-french-touch-premium-araclar-ds-21-p-w010101sim07535dc": {
+    "brand": "Majorette",
+    "name": "Majorette French Touch Premium Araçlar DS 21",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-french-touch-premium-araclar-ds-21-p-w010101sim07535dc",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 250.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-french-touch-deluxe-araclar-citroen-hy-moutarde-de-dijon-p-w010101sim07537cm": {
+    "brand": "Majorette",
+    "name": "Majorette French Touch Deluxe Araçlar Citroen Hy Moutarde De Dijon",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-french-touch-deluxe-araclar-citroen-hy-moutarde-de-dijon-p-w010101sim07537cm",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 400.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-man-sehir-otobusleri-lion-s-coach-l-gri-p-w010101sim53159mg": {
+    "brand": "Majorette",
+    "name": "Majorette MAN Şehir Otobüsleri Lion's Coach L Gri̇",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-man-sehir-otobusleri-lion-s-coach-l-gri-p-w010101sim53159mg",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 450.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-japan-serisi-premi-um-arabalar-nissan-cefiro-a31-p-w010101sim51029nc": {
+    "brand": "Majorette",
+    "name": "Majorette Japan Serisi Premi̇um Arabalar Nissan Cefiro A31",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-japan-serisi-premi-um-arabalar-nissan-cefiro-a31-p-w010101sim51029nc",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 280.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-japan-pri-me-serisi-araclar-toyota-century-p-w010101sim07588tc": {
+    "brand": "Majorette",
+    "name": "Majorette Japan Pri̇me Serisi Araçlar Toyota Century",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-japan-pri-me-serisi-araclar-toyota-century-p-w010101sim07588tc",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 275.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-premium-araclar-jeep-wrangler-4xe-sari-p-w010101sim53002js": {
+    "brand": "Majorette",
+    "name": "Majorette Premium Araçlar Jeep Wrangler 4XE Sarı",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-premium-araclar-jeep-wrangler-4xe-sari-p-w010101sim53002js",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 219.99,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-song-taew-edition-isuzu-d-max-mavi-p-010101sim07456": {
+    "brand": "Majorette",
+    "name": "Majorette Song Taew Edition Isuzu D-Max Mavi",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-song-taew-edition-isuzu-d-max-mavi-p-010101sim07456",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 320.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-japon-serisi-tuning-garage-seti-p-010101sim07532": {
+    "brand": "Majorette",
+    "name": "Majorette Japon Serisi Tuning Garage Seti",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-japon-serisi-tuning-garage-seti-p-010101sim07532",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 2499.9,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-song-taew-edition-isuzu-d-max-kirmizi-p-010101sim07455": {
+    "brand": "Majorette",
+    "name": "Majorette Song Taew Edition Isuzu D-Max Kırmızı",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-song-taew-edition-isuzu-d-max-kirmizi-p-010101sim07455",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 320.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-transporter-edition-isuzu-d-max-gri-p-010101sim07539": {
+    "brand": "Majorette",
+    "name": "Majorette Transporter Edition Isuzu D-Max Gri",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-transporter-edition-isuzu-d-max-gri-p-010101sim07539",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 320.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-trailer-arac-serisi-deutz-fahr-fliegl-polyline-p-w010101sim53154d": {
+    "brand": "Majorette",
+    "name": "Majorette Trailer Araç Serisi Deutz Fahr-Fliegl Polyline",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-trailer-arac-serisi-deutz-fahr-fliegl-polyline-p-w010101sim53154d",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 450.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-vintage-araclar-volvo-240-gl-estate-p-w010101sim52010vol": {
+    "brand": "Majorette",
+    "name": "Majorette Vintage Araçlar Volvo 240 Gl Estate",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-vintage-araclar-volvo-240-gl-estate-p-w010101sim52010vol",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 299.9,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-vintage-araclar-fiat-500-d-p-w010101sim52010f": {
+    "brand": "Majorette",
+    "name": "Majorette Vintage Araçlar Fiat 500 D",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-vintage-araclar-fiat-500-d-p-w010101sim52010f",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 299.9,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-trailer-arac-serisi-deutz-fahr-9340-ttv-p-w010101sim53154df": {
+    "brand": "Majorette",
+    "name": "Majorette Trailer Araç Serisi Ford Bronco",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-trailer-arac-serisi-deutz-fahr-9340-ttv-p-w010101sim53154df",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 450.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-renk-degistiren-arabalar-kia-performance-car-p-w010101sim07746kp": {
+    "brand": "Majorette",
+    "name": "Majorette Renk Değiştiren Arabalar Kia Performance Car",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-renk-degistiren-arabalar-kia-performance-car-p-w010101sim07746kp",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 300.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-volvo-3-lu-insaat-araclari-4-p-w010305sim06320d": {
+    "brand": "Majorette",
+    "name": "Majorette Volvo 3’lü İnşaat Araçları 4",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-volvo-3-lu-insaat-araclari-4-p-w010305sim06320d",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 899.9,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-monster-araba-ford-f-raptor-p-w010100sim05157fr": {
+    "brand": "Majorette",
+    "name": "Majorette Monster Araba Ford F- Raptor",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-monster-araba-ford-f-raptor-p-w010100sim05157fr",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 450.0,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-5-parcali-araba-seti-seri-9-p-w010102sim04241s9": {
+    "brand": "Majorette",
+    "name": "Majorette 5 Parçalı Araba Seti Seri 9",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-5-parcali-araba-seti-seri-9-p-w010102sim04241s9",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 749.9,
+    "old_price": null
+  },
+  "Majorette:https://www.armaganoyuncak.com.tr/majorette-monster-araba-vollvo-hauler-p-w010100sim05157vh": {
+    "brand": "Majorette",
+    "name": "Majorette Monster Araba Vollvo Hauler",
+    "link": "https://www.armaganoyuncak.com.tr/majorette-monster-araba-vollvo-hauler-p-w010100sim05157vh",
+    "image_url": null,
+    "in_stock": true,
+    "qty": null,
+    "price": 450.0,
+    "old_price": null
+  }
+}

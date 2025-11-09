@@ -2,8 +2,8 @@ name: armaganwatch
 
 on:
   schedule:
-    - cron: "*/1 * * * *"   # Her 1 dakikada bir çalışır
-  workflow_dispatch:
+    - cron: "*/1 * * * *"   # her 1 dakikada bir tarama
+  workflow_dispatch:        # istersen elle de çalıştırabilirsin
 
 jobs:
   run-armaganwatch:

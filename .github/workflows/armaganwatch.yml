@@ -2,7 +2,7 @@ name: armaganwatch
 
 on:
   schedule:
-    - cron: "*/1 * * * *"   # her 1 dakikada bir tarama
+    - cron: "*/1 * * * *"   # her 1 dakikada bir kontrol
   workflow_dispatch:        # istersen elle de çalıştırabilirsin
 
 jobs:
